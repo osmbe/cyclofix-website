@@ -29,7 +29,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [params]
   author = "Cyclofix Team"
   searchPlaceholder = "Search the docs ..."
-  repo = "https://github.com/onweru/compose"
+  repo = "https://github.com/osmbe/cyclofix-website"
 
   time_format_blog = "Monday, January 02, 2006"
   time_format_default = "January 2, 2006"
