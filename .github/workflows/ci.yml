@@ -12,6 +12,6 @@ jobs:
       uses: actions/checkout@v2
     - name: List wd
       run: |
-        echo "test" && ls -la /home/runner/work/cyclofix-website/cyclofix-website
+        echo "test" && ls -la /home/runner/work/cyclofix-website/cyclofix-website/themes
     - uses: srt32/hugo-action@master
 
