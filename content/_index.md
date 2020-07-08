@@ -1,5 +1,5 @@
 +++
-title = "Cyclofix Docs"
+title = "Cyclofix"
 +++
 
 {{< block "grid-2 mt-2" >}}

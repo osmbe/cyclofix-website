@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://cyclofix.bike.brussels/"
 languageCode = "en-us"
-title = "Cyclofix Docs"
+title = "Cyclofix"
 theme = "compose"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
