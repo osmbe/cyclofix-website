@@ -1,0 +1,20 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    needs: "filter"
+    runs-on: ubuntu-latest
+    steps:
+    - uses: srt32/hugo-action@master
+        
+  filter:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: "actions/bin/filter@b2bea0749eed6beb495a8fa194c071847af60ea1"
+      with:
+        args: "branch master"
