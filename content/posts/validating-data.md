@@ -12,7 +12,7 @@ For this tool, we use the OSMCha. The tool was developped by Mapbox, a company t
 ## In practice
 
 Every edit you make in OSM is bundled in a little file, a _changeset_ ([example](https://www.openstreetmap.org/changeset/13349393)). 
-This file is forever associated with your _username_ ([example](https://www.openstreetmap.org/user/Mdri)) and the object you changed ([example](https://www.openstreetmap.org/relation/2450509/history).
+This file is forever associated with your _username_ ([example](https://www.openstreetmap.org/user/Mdri)) and the object you changed ([example](https://www.openstreetmap.org/relation/2450509/history)).
 
 In OSMCha we filter changesets:
 - if they have the _changeset comment_ "pomp" (the name of our instance)
