@@ -7,14 +7,8 @@ title = "Cyclofix"
 
 # Cyclofix
 
-docdocdoc
+Type some text here
 
-Test Test
-
-test
-
-test test
-
-TEST2
+{{< button "posts/" "About this project" >}}
 
 {{< button "docs/" "Read the Docs" >}}
