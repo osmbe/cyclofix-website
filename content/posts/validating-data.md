@@ -1,7 +1,9 @@
 ---
 title: "Validating data"
-weight: 9
+date: 2020-07-23T17:00:00+02:00
+draft: false
 ---
+
 
 
 When you edit OpenStreetMap (OSM), all your changes are applied automatically. This makes for a fast mapping environment where you can easily work together.
