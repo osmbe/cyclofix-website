@@ -1,4 +1,4 @@
-baseURL = "https://osmbe.github.io/cyclofix-website/"
+baseURL = "https://cyclofix.osm.be"
 languageCode = "en-us"
 title = "Cyclofix"
 theme = "compose"
