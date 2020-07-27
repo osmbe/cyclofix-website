@@ -12,7 +12,7 @@ Live data: Overpass (link to basic explanation)
 * integrate in website (link to working umap instance)
 
 
-## Buying a new bike
+### Buying a new bike
 
 - most places to buy a bicycle are `shop=bicycle`
 - however, we need to exclude bicycle repair shops etc. These can be removed: exclude `service:bicycle:retail=no`
