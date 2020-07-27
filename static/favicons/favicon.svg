@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55" height="55" version="1.1" viewBox="0 0 13.513 13.513" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1_d" x="87.645" y="59" width="93.235" height="58" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+   <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+   <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+   <feOffset dy="4"/>
+   <feGaussianBlur stdDeviation="2"/>
+   <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+   <feBlend in2="BackgroundImageFix" result="effect1_dropShadow"/>
+   <feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+  </filter>
+ </defs>
+ <g transform="matrix(.3978 0 0 .3978 3.4414 .66146)">
+  <circle cx="8.333" cy="15.321" r="15.44" fill="#e9c46a" stroke-width=".31509"/>
+  <g transform="matrix(.31509 0 0 .31509 -33.972 -12.407)" filter="url(#filter1_d)">
+   <g fill="none" stroke="#fff">
+    <path d="m130.8 94.661h-22.216l12.118-26.256h30.295l-3.366-7.4055h9.425m-6.059 7.4055 1.347 3.3661 2.692 5.3858 7.406 17.504m-11.445-26.256-6.396 10.098-3.837 6.059m-2.558 4.0394 2.558-4.0394m-15.349-8.7519 6.732 14.811-13.465-29.622 4.04 8.0787m13.464 22.89 4.578-7.4055" stroke-width="4"/>
+    <circle cx="134.06" cy="93.516" r="3.7126" stroke-width="2"/>
+    <path d="m158.94 101.94-0.057-4e-3h-0.058c-1.479 0-3.004 0.075-4.38 0.143-0.811 0.039-1.569 0.077-2.236 0.095-1.966 0.052-3.404-0.042-4.481-0.426-0.945-0.337-1.662-0.913-2.186-2.1115-0.575-1.3143-0.935-3.4347-0.817-6.8521 0.291-8.4377 6.811-15.144 15.076-15.144 8.326 0 15.076 6.7495 15.076 15.075 0 2.8364-0.069 4.7891-0.374 6.201-0.286 1.3185-0.724 1.9125-1.328 2.2995-0.735 0.471-2.019 0.834-4.429 0.959-2.37 0.124-5.531 9e-3 -9.806-0.235z" stroke-width="4"/>
+    <circle cx="108.48" cy="92.169" r="14.831" stroke-width="4"/>
+   </g>
+   <path d="m170.17 78.203c-0.122-1.0395-0.609-2.079-1.097-2.5031m2.439 2.9272c0.366-0.5516 0.854-2.0152 0.854-2.9909m0.243 4.0304c0.367-0.5516 2.318-1.4636 2.806-1.4636" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+   <circle cx="170.54" cy="80.027" r=".48787" fill-opacity=".49"/>
+  </g>
+ </g>
+</svg>
