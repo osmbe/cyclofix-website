@@ -8,9 +8,9 @@ Used all over the place; examples.
 
 Downloadable: download.geofabrik
 
-Live data: Overpass
-> use in overpass-turbo / export data
-> integrate in website (e.g. umap)
+Live data: Overpass (link to basic explanation)
+* use in overpass-turbo / export data (link to basic explanation)
+* integrate in website (link to working umap instance)
 
 
 ## Buying a new bike
