@@ -28,7 +28,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
   author = "CycloFix Team"
-  searchPlaceholder = "Search the docs ..."
+  searchPlaceholder = "Search"
   repo = "https://github.com/osmbe/cyclofix-website"
 
   time_format_blog = "Monday, January 02, 2006"
