@@ -21,6 +21,6 @@ Things we need:
     link to mapcomplete website (and create your own quest)
 
 
-{{< button "posts/" "About this project" >}}
+{{< button "posts/" "To the map" >}}
 
-{{< button "docs/" "Read the Docs" >}}
+{{< button "docs/" "Learn more" >}}
