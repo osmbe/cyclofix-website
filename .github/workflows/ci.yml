@@ -25,3 +25,7 @@ jobs:
         BRANCH: gh-pages
         FOLDER: public
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Add CNAME
+      run: "\"cyclofix.osm.be\" > \"/home/runner/work/cyclofix-website/cyclofix-website/CNAME\""
+      shell: bash
