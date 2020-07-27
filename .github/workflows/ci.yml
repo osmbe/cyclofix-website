@@ -23,7 +23,7 @@ jobs:
       shell: bash
     
     - name: Add CNAME
-      run: "echo \"cyclofix.osm.be\" > \"/home/runner/work/cyclofix-website/cyclofix-website/public/CNAME\""
+      run: "echo \"cyclofix.osm.be\" | sudo tee -a \"/home/runner/work/cyclofix-website/cyclofix-website/public/CNAME\""
       shell: bash
   
     - name: List
