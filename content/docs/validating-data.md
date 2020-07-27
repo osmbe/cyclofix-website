@@ -8,7 +8,7 @@ But of course, there are risks to this approach. The OpenStreetMap community han
 
 For this tool, we use the OSMCha. The tool was developped by Mapbox, a company that provides basemaps and other services to large corporations. They provide this tool to any mapper free of charge.
 
-## In practice
+### In practice
 
 Every edit you make in OSM is bundled in a little file, a _changeset_ ([example](https://www.openstreetmap.org/changeset/13349393)). 
 This file is forever associated with your _username_ ([example](https://www.openstreetmap.org/user/Mdri)) and the object you changed ([example](https://www.openstreetmap.org/relation/2450509/history)).
