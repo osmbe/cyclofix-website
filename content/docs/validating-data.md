@@ -1,10 +1,7 @@
 ---
 title: "Validating data"
-date: 2020-07-23T17:00:00+02:00
 draft: false
 ---
-
-
 
 When you edit OpenStreetMap (OSM), all your changes are applied automatically. This makes for a fast mapping environment where you can easily work together.
 But of course, there are risks to this approach. The OpenStreetMap community handles those risks by constant validation.
