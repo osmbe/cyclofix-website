@@ -1,10 +1,9 @@
 ---
 title: "Organizing a mapathon"
-date: 2020-07-23T17:00:00+02:00
 draft: false
 ---
 
-# How to set up a mapathon?
+How do you set up a mapathon to speed up the data inventory? Below you can find some helpful tips to get started.
 
 TO DO: include some links and images
 
