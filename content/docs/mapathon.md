@@ -8,7 +8,7 @@ How do you set up a mapathon to speed up the data inventory? Below you can find 
 TO DO: include some links and images
 
 
-## Decide on an event model
+### Decide on an event model
 
 * online introduction (with optional meeting point)
 * on the street mapping
@@ -16,7 +16,7 @@ TO DO: include some links and images
 * ...
 
 
-## Before the event
+### Before the event
 
 - decide on event model; get a location if needed
 - decide on registrations (cf. Eventbrite)
@@ -31,13 +31,13 @@ TO DO: include some links and images
 - finish the app 15 minutes before the event
 
 
-## During event
+### During the event
 - make sure people have a help-line
 - make sure you can start collecting feedback
 - be prepared for live data analysis (because that makes it FUN)
 
 
-## After the event
+### After the event
 - be prepared for data clean-up
 - send a thank you email
 - send a follow-up email with project status after a little while
