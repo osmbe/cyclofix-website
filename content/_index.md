@@ -15,4 +15,4 @@ However, work in OpenStreetMap is never finished and this project should be able
 
 
 
-{{< button "map/" "To the map" >}}         {{< button "docs/" "Learn more" >}}
+{{< button "map/" "To the map" >}}  {{< button "docs/" "Learn more" >}}
