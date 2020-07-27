@@ -16,6 +16,6 @@ Live data: Overpass (link to basic explanation)
 
 - most places to buy a bicycle are `shop=bicycle`
 - however, we need to exclude bicycle repair shops etc. These can be removed: exclude `service:bicycle:retail=no`
-http://overpass-turbo.eu/s/Wt7
+http://overpass-turbo.eu/s/Wvy
 - but you can buy bikes at some other places as well. For example, special concepts like "cycle cafés" (`amenity=cafe`, `amenity=pub`), clubs or non-profits, or general sports shops that also sell bicycles
 http://overpass-turbo.eu/s/Wt8
