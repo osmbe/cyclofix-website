@@ -7,6 +7,8 @@ title = "Cyclofix"
 
 # Cyclofix
 
+Welcome to the CycloFix website!
+
 Things we need:
 
     to the map
