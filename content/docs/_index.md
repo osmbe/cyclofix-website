@@ -1,3 +1,8 @@
+---
+title: "Documentation"
+weight: 1
+---
+
 # Documentation
 
 Here you can find all necessary documentation if you want to get started with the tool yourself.
