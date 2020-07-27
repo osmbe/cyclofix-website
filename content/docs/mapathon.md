@@ -8,12 +8,14 @@ draft: false
 
 TO DO: include some links and images
 
+
 ## Decide on an event model
 
 * online introduction (with optional meeting point)
 * on the street mapping
 * post-event socializing
 * ...
+
 
 ## Before the event
 
@@ -29,10 +31,12 @@ TO DO: include some links and images
 - create some buzz!
 - finish the app 15 minutes before the event
 
+
 ## During event
 - make sure people have a help-line
 - make sure you can start collecting feedback
 - be prepared for live data analysis (because that makes it FUN)
+
 
 ## After the event
 - be prepared for data clean-up
