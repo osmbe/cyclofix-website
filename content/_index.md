@@ -16,6 +16,8 @@ Things we need:
     explanation about OSM for gov (include osm.be)
     data validation
     link to mapcomplete website (and create your own quest)
+    
+    TEST
 
 
 {{< button "posts/" "About this project" >}}
