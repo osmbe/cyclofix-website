@@ -1,11 +1,11 @@
 +++
-title = "Cyclofix"
+title = "CycloFix"
 +++
 
 {{< block "grid-2 mt-2" >}}
 {{< column >}}
 
-# Cyclofix
+# CycloFix
 
 Welcome to the CycloFix website! CycloFix is a project that saw the light of day during the 10th edition of Open Summer of Code, a 4-week summer programme where students, coaches and organisations develop innovative open source projects.
 
