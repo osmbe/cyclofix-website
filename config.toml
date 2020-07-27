@@ -35,7 +35,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   time_format_default = "January 2, 2006"
   [params.logo]
     lightMode = "cyclofix-logo.svg"
-    darkMode = "compose-light.svg"
+    darkMode = "cyclofix-logo.svg"
 
   [params.source]
     name = "GitHub"
