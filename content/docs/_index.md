@@ -1,5 +1,5 @@
 ---
-title: "Documentation"
+title: "**Documentation**"
 weight: 1
 ---
 
