@@ -18,8 +18,16 @@ jobs:
     - name: Build
       uses: srt32/hugo-action@master
     
+    - name: List
+      run: "ls \"/home/runner/work/cyclofix-website/cyclofix-website\""
+      shell: bash
+    
     - name: Add CNAME
       run: "echo \"cyclofix.osm.be\" > \"/home/runner/work/cyclofix-website/cyclofix-website/CNAME\""
+      shell: bash
+  
+    - name: List
+      run: "ls \"/home/runner/work/cyclofix-website/cyclofix-website\""
       shell: bash
     
     - name: Deploy
