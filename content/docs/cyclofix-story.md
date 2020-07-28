@@ -11,9 +11,15 @@ Especially during the COVID-19 pandemic, the number of people interested in cycl
 
 ## What was the problem?
 
-The biggest issue at stake here is that there is a great need for (open) data about cycling infrastructure and other points of interest that can be relevant for cyclists. Think about bicycle pumps, repair stations, bike shops, public parkings and so on. Especially in a bureaucratic and fragmented area like Brussels, with multiple governments on different levels, such a data inventory can be a hard nut to crack.
+The biggest issue at stake here is that there is a great need for (open) data about cycling infrastructure and other points of interest that can be relevant for cyclists. Think about bicycle pumps, repair stations, bike shops, public parkings and so on. Especially in a bureaucratic and fragmented area like Brussels, with multiple governments on different levels, such a data inventory can be a hard nut to crack. Besides, you need to know where to find the data in orde to use it. It is to say that a data inventory in general requires a lot of work to collect and validate everything (at least if you want to do it in the right way).
 
 ## What is the solution?
+
+The solution is actually quite straightforward and already exists: OpenStreetMap (OSM). The collaborative project to create a free editable map of the world is the perfect way to centralize all this data concerning cycling infrastructure in that global database (with the geodata being the main output). 
+
+The good thing is that a lot of points of interest are already mapped in OSM. The big challenge, however, is to improve the data (both add and edit) and use the crowd to maintain the database. That is, we need people to keep mapping new pumps, repair stations etc. for it to stay up-to-date and relevant. 
+
+As mentioned before, the geodata is the main output of OSM. That is, there must also be an interface solution, i.e. showing the data in a pretty way, easily consultable and editable. Finally, it is crucial that we help people, governments and organisations re-use the data and keep improving it.
 
 ## How does it work?
 
