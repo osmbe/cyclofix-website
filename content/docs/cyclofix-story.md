@@ -38,8 +38,7 @@ The mapping tool itself works as follows:
  
 ![alt text](https://github.com/osmbe/cyclofix-website/blob/master/static/images/edit.png "Editing a pin")
 
-saved automatically
-not our data anymore
+As a user, it is also important to understand the dynamics of adding data through our tool/MapComplete. Whenever a pin is added or edited, everything will be saved automatically in the OSM database. That also means that the data is open for everyone to (re-)use; i.e. it is not ours anymore. For example, even Facebook uses OSM data to create maps. In other words, people are not only contributing to our specific project, but are improving the database many others are using as well!
 
 ## How did we do it?
 
@@ -52,8 +51,10 @@ We started building on already existing ideas like StreetComplete, MapContrib an
 
 As MapComplete is easy to use, deploy and modify it was the perfect candidate to build upon. During #osoc20 we shaped MapComplete to our needs and were able to test it out during a mapathon that was specifically organized to gather as much of the data needed as possible. You can learn more about such an event [here](https://cyclofix.osm.be/docs/mapathon/).
 
+## What happens to CycloFix after #osoc20?
+
 In the final stage it was essential that we rolled out the tool to both the local and global community. We made sure other parties can easily re-use and integrate the map on their websites. You can find out more about that [here](https://cyclofix.osm.be/docs/using-data-map/). From another point of view we ensured that other topics and/or regions can be developped without much effort. 
 
-However, we are aware that volunteers and funding is needed to keep adding more features. After all, the solution is only as good as the people who want to put their weight behind it.
+However, we are aware that volunteers and funding is needed to keep adding more features. After all, the solution we provide is only as good as the people who want to put their weight behind it.
 
 
