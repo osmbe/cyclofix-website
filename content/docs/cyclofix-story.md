@@ -1,5 +1,5 @@
 ---
-title: "The CycloFix Story"
+title: "CycloFix: The Story"
 draft: false
 ---
 
