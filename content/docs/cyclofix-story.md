@@ -33,7 +33,11 @@ The mapping tool itself works as follows:
 * Answer questions to provide more data, depending on the topic (i.e. repair station, shop, parking, ...)
 
   Example: when adding or editing a public parking spot, we ask for the type (racks, sheds, loops, ...) and the amount of bicycles that fit in.
-  
+ 
+![alt text](https://github.com/osmbe/cyclofix-website/blob/master/static/images/add.png "Adding a pin")
+ 
+![alt text](https://github.com/osmbe/cyclofix-website/blob/master/static/images/edit.png "Editing a pin")
+
 saved automatically
 not our data anymore
 
