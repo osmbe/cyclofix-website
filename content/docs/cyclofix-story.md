@@ -21,6 +21,21 @@ The good thing is that a lot of points of interest are already mapped in OSM. Th
 
 As mentioned before, the geodata is the main output of OSM. That is, there must also be an interface solution, i.e. showing the data in a pretty way, easily consultable and editable. Finally, it is crucial that we help people, governments and organisations re-use the data and keep improving it.
 
+As a result, we developped a mapping tool that allows us to ... 
+
 ## How does it work?
 
 ## How did we do it?
+
+Initially, we started talking to all relevant stakeholders: the 19 municipalities in the Brussels Capital Region, cycling organisations/advocacy groups and (for the more technical part) the OSM community. 
+
+We started building on already existing ideas like StreetComplete, MapContrib and Overpass-Turbo. Finally, we decided to use a mixture of StreetComplete and MapContrib called MapComplete. Our focus was on simplification: people should be able to contribute without any technical background. Therefore, three design requirements were imposed:
+* Topical focus: ...
+* Easy to validate: it should be simple and smooth to validate the (newly) provided data. You can learn more about data validation here.
+* No installation: users don't want to download and install a program, but want to be able to use it instantly. A responsive design that fully works on mobile is crucial
+
+As MapComplete is easy to use, deploy and modify it was the perfect candidate to build upon. During #osoc20 we shaped MapComplete to our needs and were able to test it out during a mapathon that was specifically organized to gather as much of the data needed as possible. You can learn more about such an event here.
+
+In the final stage it was essential that we rolled out the tool to both the local and global community. We made sure other parties can easily re-use and integrate the map on their websites. You can find out more about that here. From another point of view we ensured that other topics and/or regions can be developped without much effort. However, we are aware that volunteers and funding is needed to keep adding more features. After all, the solution is only as good as the people who want to put their weight behind it.
+
+
