@@ -1,5 +1,5 @@
 ---
-title: "Validating data"
+title: "Data validation"
 draft: false
 ---
 
