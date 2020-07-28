@@ -1,5 +1,5 @@
 ---
-title: "Organizing a mapathon"
+title: "Mapathons and more"
 draft: false
 ---
 
