@@ -1,7 +1,9 @@
 ---
-title: "Using the data"
+title: "Re-using the data and map"
 draft: false
 ---
+
+## Using the data
 
 Used all over the place; examples.
 
@@ -21,7 +23,7 @@ http://overpass-turbo.eu/s/Wvy
 http://overpass-turbo.eu/s/Wt8
 
 
-# Re-using the map"
+## Re-using and integrating the map
 
 lorem ipsum
 
