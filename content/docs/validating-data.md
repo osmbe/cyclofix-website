@@ -14,7 +14,7 @@ Every edit you make in OSM is bundled in a little file, a _changeset_ ([example]
 This file is forever associated with your _username_ ([example](https://www.openstreetmap.org/user/Mdri)) and the object you changed ([example](https://www.openstreetmap.org/relation/2450509/history)).
 
 In OSMCha we filter changesets:
-- if they have the _changeset comment_ "pomp" (the name of our instance)
+- if they have the _changeset comment_ "pomp" (the name of our instance at the time; this was later changed to "cyclofix")
 - if they are in Belgium
 - if the changeset has NOT been reviewed yet within OSMCha
 - if the contributor has NOT been marked as _trusted_ by the current OSMCha user
@@ -26,6 +26,6 @@ We do not go through all the changes. When we see a new edit, we try to assess i
 Then we cross-reference with aereal imagery, the photos provided by the contributor or on Mapillary (a crowd-sourced street-level imagery datasource).
 We make corrections and imporvements if needed, and mark the changeset as "good" or "bad" within OSMCha.
 
-If we have checked a few edits of a new contributor and found them to be in perfect shape, we mark the contributor as a "trusted user". This list is shared within our team.
+If we have checked a few edits of a new contributor and found them to be in perfect shape, we mark the contributor as a "trusted user". This list is shared [somewhere on the OSM wiki](https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Cyclofix/trusted_users).
 
 During this process, we can leave a message on the Changeset for the contributor and the community to see. This creates a public record on any doubts there might be about this particular data-point.
