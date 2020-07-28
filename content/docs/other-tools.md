@@ -1,7 +1,7 @@
 ---
 title: "Other data & tools"
 date: 2020-07-27T17:00:00+02:00
-draft: true
+draft: false
 ---
 
 Brussels Bike Routeplanner
