@@ -34,9 +34,9 @@ The mapping tool itself works as follows:
 
   Example: when adding or editing a public parking spot, we ask for the type (racks, sheds, loops, ...) and the amount of bicycles that fit in.
  
-![alt text](https://github.com/osmbe/cyclofix-website/blob/master/static/images/add.png "Adding a pin")
+![Adding a pin](https://github.com/osmbe/cyclofix-website/blob/master/static/images/add.png "Adding a pin")
  
-![alt text](https://github.com/osmbe/cyclofix-website/blob/master/static/images/edit.png "Editing a pin")
+![Editing a pin](https://github.com/osmbe/cyclofix-website/blob/master/static/images/edit.png "Editing a pin")
 
 As a user, it is also important to understand the dynamics of adding data through our tool/MapComplete. Whenever a pin is added or edited, everything will be saved automatically in the OSM database. That also means that the data is open for everyone to (re-)use; i.e. it is not ours anymore. For example, even Facebook uses OSM data to create maps. In other words, people are not only contributing to our specific project, but are improving the database many others are using as well!
 
