@@ -5,6 +5,8 @@ draft: false
 
 ## Using the data
 
+TODO: explain our data model on this page and link to the wiki
+
 You are probably  already using OpenStreetMap data! Smartphone apps like [maps.me](http://resultmaps.neis-one.org/osm-changesets?comment=MapComplete%20pomp#9/50.9783/3.8232) are entirely based on OSM. Garmin hiking and biking GPS devices come pre-loaded with OSM. Hiking websites like RouteYou show their routes on top of OpenStreetMap. Every single map you can see on Facebook is made with OSM. And [we even discovered Tesla cars drive autonomously on parking lots with OpenStreetMap](https://teslamotorsclub.com/blog/2019/11/04/tesla-owners-can-edit-maps-to-improve-summon-routes/)!
 
 There are many ways to use OpenStreetMap data. If you want ALL THE DATA you could [download the entire planet](https://wiki.openstreetmap.org/wiki/Planet.osm), but it's probably more practical to download just Belgium from a service like [the Geofabrik download site](http://download.geofabrik.de/europe/belgium.html). They even offer shapefiles for those that like a more structured dataset.
