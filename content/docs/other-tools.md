@@ -13,3 +13,10 @@ Villo!
 [Cycle counter map](https://better.bike.brussels/bike-count.html )
 
 Open Data Peleton
+
+OSM for cyclists:
+- apps
+- Garmins
+- basemaps
+- cycle.route
+- waymarkedtrails
