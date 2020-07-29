@@ -5,7 +5,7 @@ draft: false
 
 ## Using the data
 
-TODO: explain our data model on this page and link to the wiki
+TODO: explain our data model on this page and link to the wiki (+ overpass query?)
 
 You are probably  already using OpenStreetMap data! Smartphone apps like [maps.me](http://resultmaps.neis-one.org/osm-changesets?comment=MapComplete%20pomp#9/50.9783/3.8232) are entirely based on OSM. Garmin hiking and biking GPS devices come pre-loaded with OSM. Hiking websites like RouteYou show their routes on top of OpenStreetMap. Every single map you can see on Facebook is made with OSM. And [we even discovered Tesla cars drive autonomously on parking lots with OpenStreetMap](https://teslamotorsclub.com/blog/2019/11/04/tesla-owners-can-edit-maps-to-improve-summon-routes/)!
 
