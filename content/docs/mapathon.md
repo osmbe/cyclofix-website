@@ -3,9 +3,11 @@ title: "Mapathons and more"
 draft: false
 ---
 
+A mapathon is a coordinated mapping event where the public is invited to make online map improvements in their local area to improve coverage, basically a kind of crowdsourcing. During #osoc20, we organized a mapathon to boost the CycloFix project. It is important to have the right goals in mind when organizing such an event. Our goal was two-sided: increase the coverage of mapped cycling infrastructure in the Brussels Capital Region (collect as much data as possible) AND build a community to keep the map updated (introducing others to OSM).
 
-How do you set up a mapathon to speed up the data inventory? Below you can find some helpful tips to get started.
 The MapComplete app is ideal to get new people out on the street to add or check original data! Don't plan for a bring-your-computer event, but make it clear to everyone that this is an outdour thing!
+
+But how do you set up a mapathon to speed up the data inventory? Below you can find some helpful tips, based on our experience, to get started.
 
 ### Decide on an event model
 
@@ -20,7 +22,7 @@ This allowed for some social distancing while still having some interaction. It 
 
 - decide on event model
 - get a location if needed. You don't need anything fancy - though a projector is handy
-- decide on registrations. We used Eventbrite and sent a follow-up mail to give a lot of detail about how things would go.
+- decide on registrations. We used [Eventbrite](https://cyclofix) and sent a follow-up mail to give a lot of detail about how things would go.
 - decide on an area of focus
 - how to devide the work?
 -- we created [a simple map](https://cyclofix.osm.be/signup-map/index.html) to say "I will map here", then pushed people to go somewhere where no-one else was going
