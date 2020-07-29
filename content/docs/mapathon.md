@@ -51,5 +51,5 @@ This allowed for some social distancing while still having some interaction. It 
 
 During our event 24 people mapped 498 objects. The most productive mappers added 70-100 objects! The map below shows all the added or edited data from the event, coloured by the unique contributor.
 
-![mapathon map](../../static/images/mapathon_map.jpg)
+![mapathon map](/images/mapathon_map.jpg)
 
