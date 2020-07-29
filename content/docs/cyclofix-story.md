@@ -53,7 +53,7 @@ As MapComplete is easy to use, deploy and modify it was the perfect candidate to
 
 ## What happens to CycloFix after #osoc20?
 
-In the final stage it was essential that we rolled out the tool to both the local and global community. We made sure other parties can easily re-use and integrate the map on their websites. You can find out more about that [here](https://cyclofix.osm.be/docs/using-data-map/). From another point of view we ensured that other topics and/or regions can be developped without much effort. 
+In the final stage it was essential that we rolled out the tool to both the local and global community. We made sure other parties such as governments or cycling organisations can easily re-use and integrate the map on their websites. We encourage everyone for whom this tool can be an added value to look into that for sure. You can find out more about integration [here](https://cyclofix.osm.be/docs/using-data-map/). From another point of view we ensured that other topics and/or regions can be developped without much effort. 
 
 However, we are aware that volunteers and funding is needed to keep adding more features. After all, the solution we provide is only as good as the people who want to put their weight behind it.
 
