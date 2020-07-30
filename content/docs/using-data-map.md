@@ -49,4 +49,4 @@ It is free, and always will be. The more people using this, the more valuable it
 * Enable layer control
 * Enable the 'add new POI' button
 
-<iframe src="https://pietervdvn.github.io/MapComplete/cyclofix.html?z=16&lat=50.8465573&lon=4.351697" title="cyclofix with MapComplete"></iframe>
+> <iframe src="https://pietervdvn.github.io/MapComplete/cyclofix.html?z=16&lat=50.8465573&lon=4.351697" title="cyclofix with MapComplete"></iframe>
