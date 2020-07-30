@@ -42,11 +42,16 @@ You can easily add this website to your home screen for a native feel. Click the
 
 Please, embed this map into your website. We encourage you to do it - you don't even have to ask permission.
 It is free, and always will be. The more people using this, the more valuable it becomes.
-* Include current location
-* Enable the login-button
-* Enable search bar
-* Enable the welcome message
-* Enable layer control
-* Enable the 'add new POI' button
 
-&lt;iframe src="https://pietervdvn.github.io/MapComplete/cyclofix.html?z=16&lat=50.8465573&lon=4.351697" title="cyclofix with MapComplete"&gt;&lt;/iframe&gt;
+```html
+<iframe src="https://pietervdvn.github.io/MapComplete/cyclofix.html" title="Cyclofix with MapComplete"></iframe>;
+```
+
+To specify the location where the map should start out, add `&z=16&lat=50.846&lon=4.3516` at the end of the url, like this:
+
+```html
+<iframe src="https://pietervdvn.github.io/MapComplete/cyclofix.html&z=16&lat=50.846&lon=4.3516" title="Cyclofix with MapComplete"></iframe>;
+```
+
+Remember to fill in your own `lat=` (latitude) and `lon=` (longitude), and to use dots as the decimal seperator (like the example).
+If you want the map to be more zoomed in, use a `z=` of more than 16 (up to 19), to make it more zoomed out, choose a smaller number (down to 1).
