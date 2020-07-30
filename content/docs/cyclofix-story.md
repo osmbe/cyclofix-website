@@ -45,7 +45,8 @@ As a user, it is also important to understand the dynamics of adding data throug
 Initially, we started talking to all relevant stakeholders: the 19 municipalities in the Brussels Capital Region, cycling organisations/advocacy groups and (for the more technical part) the OSM community. 
 
 We started building on already existing ideas like StreetComplete, MapContrib and Overpass-Turbo. Finally, we decided to use a mixture of StreetComplete and MapContrib called [MapComplete](https://github.com/pietervdvn/MapComplete). Our focus was on simplification: people should be able to contribute without any technical background. Therefore, three design requirements were imposed:
-* Topical focus (analyze data model in OSM): JOOST TO ADD
+* Topical focus: the OSM data model needs to be refined or simplified to be able to extract subsets of data and to match it to simple multiple choice questions. The
+number of topics needs to be limited to make sure our user base is sufficiently interested to make a good effort.
 * Easy to validate: it should be simple and smooth to validate the (newly) provided data. After all, the quality is equally (if not more important) than trying to add every single point. You can learn more about data validation [here](https://cyclofix.osm.be/docs/validating-data/).
 * No installation: users don't want to download and install a program, but want to be able to use it instantly. A responsive design that fully works on mobile is crucial.
 
