@@ -54,14 +54,16 @@ To be able to use the data, you need to have some understanding of the data mode
 
 Combined that gives us [this query](http://overpass-turbo.eu/s/WAE):
 
-`[out:json][timeout:25];
+```
+[out:json][timeout:25];
 (
   nwr["shop"="bicycle"]["service:bicycle:retail"!="no"]({{bbox}});
    nwr["service:bicycle:retail"="yes"]({{bbox}});
 );
 out center;
 >;
-out body qt;`
+out body qt;
+```
 
 Once we have this, we can use the Export function to download the data, the map or a live link to this query. With such a live link, you can set up a nice little umap to show the result. Even easier to set up is MapContrib: you can clone [this example](https://www.mapcontrib.xyz/t/777329-Places_to_buy_a_biycle) for your own purposes.
 
