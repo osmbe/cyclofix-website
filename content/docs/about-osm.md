@@ -9,7 +9,7 @@ We collected some resources that delve deeper into this topic:
 
 - [How to switch to osm](https://switch2osm.org/)
 - [Learn OSM](https://learnosm.org/)
-- [20-page intro to OpenStreetMap[](https://blog.openstreetmap.org/wp-content/uploads/2020/07/Providing-data-to-OpenStreetMap.pdf), written with (local) governement in mind
+- [20-page intro to OpenStreetMap](https://blog.openstreetmap.org/wp-content/uploads/2020/07/Providing-data-to-OpenStreetMap.pdf), written with (local) governement in mind
 - [a listing of projects where governements actively work with OpenStreetMap](https://wiki.openstreetmap.org/wiki/OpenStreetMap_for_Government)
 - [you just want a free background map in Belgium?](https://openstreetmap.be/en/projects/belgium-baselayer.html)
 
