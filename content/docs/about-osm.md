@@ -3,7 +3,7 @@ title: "About OSM"
 draft: false
 ---
 
-To maximize the re-usability of the data Cyclofix collects, we decided to use [OpenStreetMap](https://welcome.openstreetmap.org/) (OSM). But why? How does OSM help us with that? You could say OSM is "the Wikipedia of maps". Anyone can improve our data. Anyone can re-use it - not through any official API, but through a whoile ecosystem of tools and services that make the data available for a huge range of usecases.
+To maximize the re-usability of the data Cyclofix collects, we decided to use [OpenStreetMap](https://welcome.openstreetmap.org/) (OSM). But why? How does OSM help us with that? You could say OSM is "the Wikipedia of maps". Anyone can improve our data. Anyone can re-use it - not necessarily through any official API, but through a whole ecosystem of tools and services that make the data available for a huge range of usecases.
 
 We collected some resources that delve deeper into this topic:
 
