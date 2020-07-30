@@ -55,14 +55,14 @@ To be able to use the data, you need to have some understanding of the data mode
 Combined that gives us [this query](http://overpass-turbo.eu/s/WAE):
 
 ```
-[out:json][timeout:25];
-(
-  nwr["shop"="bicycle"]["service:bicycle:retail"!="no"]({{bbox}});
+ [out:json][timeout:25];
+ (
+   nwr["shop"="bicycle"]["service:bicycle:retail"!="no"]({{bbox}});
    nwr["service:bicycle:retail"="yes"]({{bbox}});
-);
-out center;
->;
-out body qt;
+ );
+ out center;
+ >;
+ out body qt;
 ```
 
 Once we have this, we can use the Export function to download the data, the map or a live link to this query. With such a live link, you can set up a nice little [umap] or [mapcontrib] instance to show the result. To make the first try a bit easier, you can simply clone [this MapContrib theme](https://www.mapcontrib.xyz/t/777329-Places_to_buy_a_biycle) or [this umap](http://umap.openstreetmap.fr/nl/map/places-to-buy-a-bicycle_485217) that already integrate the above layer. And if you spot an error, just head over to the Cyclofix map!
