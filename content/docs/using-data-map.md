@@ -29,6 +29,24 @@ http://overpass-turbo.eu/s/Wt8
 
 ## Re-using and integrating the map
 
-lorem ipsum
+### Share this map
 
-TO DO: write about iframe + content
+Share this map by copying the link below and sending it to friends and family:
+ https://pietervdvn.github.io/MapComplete/cyclofix.html?z=16&lat=50.8465573&lon=4.351697
+
+### Add to your home screen
+
+You can easily add this website to your home screen for a native feel. Click the 'add to home screen button' in the URL bar to do this.
+
+### Embed on your website
+
+Please, embed this map into your website. We encourage you to do it - you don't even have to ask permission.
+It is free, and always will be. The more people using this, the more valuable it becomes.
+* Include current location
+* Enable the login-button
+* Enable search bar
+* Enable the welcome message
+* Enable layer control
+* Enable the 'add new POI' button
+
+<iframe src="https://pietervdvn.github.io/MapComplete/cyclofix.html?z=16&lat=50.8465573&lon=4.351697" title="cyclofix with MapComplete"></iframe>
