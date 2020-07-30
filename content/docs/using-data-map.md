@@ -8,7 +8,7 @@ draft: false
 
 ### Share this map
 
-Share this map by copying the link below and sending it to friends and family:
+Share this map by copying the link below and sending it to friends and family. When you move the map around, the URL is changed a little bit to reflect where exactly you are looking. So move to the location you want to share, and copy the URL again to share that location.
  https://pietervdvn.github.io/MapComplete/cyclofix.html?z=16&lat=50.8465573&lon=4.351697
 
 ### Add to your home screen
