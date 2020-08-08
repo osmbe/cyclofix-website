@@ -8,12 +8,18 @@ draft: false
 
 ### Share this map
 
-Share this map by copying the link below and sending it to friends and family. When you move the map around, the URL is changed a little bit to reflect where exactly you are looking. So move to the location you want to share, and copy the URL again to share that location:
- https://pietervdvn.github.io/MapComplete/cyclofix.html?z=16&lat=50.8465573&lon=4.351697
+Share this map by copying the link below and sending it to friends and family. 
+
+https://pietervdvn.github.io/MapComplete/cyclofix.html
+
+When you move the map around, the URL is changed a little bit to reflect where exactly you are looking. So move to the location you want to share, and copy the URL again to share that location:
+https://pietervdvn.github.io/MapComplete/cyclofix.html?z=16&lat=50.8465573&lon=4.351697
  
 When you change the map background or you hide some of the categories, this is also reflected in the URL, for example:
-
 https://pietervdvn.github.io/MapComplete/cyclofix.html?&z=16&lat=50.734&lon=4.2363&background=aiv-latest&layer-drinkingwater=false&layer-bikeparking=false&layer-bikeOtherShop=false#element
+
+To make sharing even easier, there is a share button on the map itself as well!
+
 
 ### Add to your home screen
 
