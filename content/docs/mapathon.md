@@ -18,6 +18,8 @@ We chose this model:
 
 This allowed for some social distancing while still having some interaction. It would have been possible to do this entirely digital, but the human interaction at the start and end did provide some very valuable input.
 
+The online introduction was recorded and [is available on YouTube](https://www.youtube.com/watch?v=C5dVjDt5QAE).
+
 ### Before the event
 
 - Decide on event model
