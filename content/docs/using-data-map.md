@@ -10,13 +10,13 @@ draft: false
 
 Share this map by copying the link below and sending it to friends and family. 
 
-https://pietervdvn.github.io/MapComplete/cyclofix.html
+https://mapComplete.osm.be/cyclofix.html
 
 When you move the map around, the URL is changed a little bit to reflect where exactly you are looking. So move to the location you want to share, and copy the URL again to share that location:
-https://pietervdvn.github.io/MapComplete/cyclofix.html?z=16&lat=50.8465573&lon=4.351697
+https://mapComplete.osm.be/cyclofix.html?z=16&lat=50.8465573&lon=4.351697
  
 When you change the map background or you hide some of the categories, this is also reflected in the URL, for example:
-https://pietervdvn.github.io/MapComplete/cyclofix.html?&z=16&lat=50.734&lon=4.2363&background=aiv-latest&layer-drinkingwater=false&layer-bikeparking=false&layer-bikeOtherShop=false#element
+https://mapComplete.osm.be/cyclofix.html?&z=16&lat=50.734&lon=4.2363&background=aiv-latest&layer-drinkingwater=false&layer-bikeparking=false&layer-bikeOtherShop=false#element
 
 To make sharing even easier, there is a share button on the map itself as well!
 
@@ -31,13 +31,13 @@ Please, embed this map into your website. We encourage you to do it - you don't 
 It is free, and always will be. The more people using this, the more valuable it becomes.
 
 ```html
-<iframe src="https://pietervdvn.github.io/MapComplete/cyclofix.html" title="Cyclofix with MapComplete"></iframe>;
+<iframe src="https://mapComplete.osm.be/cyclofix.html" title="Cyclofix with MapComplete"></iframe>;
 ```
 
 To specify the location where the map should start out, add `&z=16&lat=50.846&lon=4.3516` at the end of the url, like this:
 
 ```html
-<iframe src="https://pietervdvn.github.io/MapComplete/cyclofix.html&z=16&lat=50.846&lon=4.3516" title="Cyclofix with MapComplete"></iframe>;
+<iframe src="https://mapComplete.osm.be/cyclofix.html&z=16&lat=50.846&lon=4.3516" title="Cyclofix with MapComplete"></iframe>;
 ```
 
 Remember to fill in your own `lat=` (latitude) and `lon=` (longitude), and to use dots as the decimal seperator (like the example).
