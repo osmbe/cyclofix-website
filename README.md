@@ -8,7 +8,7 @@ The mapping tool, together with all documentation, can be found [here](https://c
 
 ## Contributing
 
-* [Start mapping!](https://pietervdvn.github.io/MapComplete/cyclofix.html)
+* [Start mapping!](https://mapComplete.osm.be/cyclofix.html)
 * [Post an issue about the cyclofix documentation website](https://github.com/osmbe/cyclofix-website/issues/new)
 * [Improve our documentation](https://github.com/osmbe/cyclofix-website/tree/master/content/docs)
 * [Post an issue about the Cyclofix app](https://github.com/pietervdvn/MapComplete/issues/new)
