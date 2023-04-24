@@ -11,9 +11,11 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
-      with:
-        submodules: recursive
 
+
+    - name: Checkout submodules
+      run: git submodule update --init --recursive
+  
     - name: Build
       uses: srt32/hugo-action@master
     
