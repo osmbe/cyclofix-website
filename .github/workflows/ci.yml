@@ -24,7 +24,7 @@ jobs:
       shell: bash
     
     - name: Copy .gitmodules config file
-      run: "cp .gitmodules public/"
+      run: "ls && pwd && cp .gitmodules public/"
       shell: bash
     
     - name: Deploy
