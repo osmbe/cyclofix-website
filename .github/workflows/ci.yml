@@ -24,9 +24,9 @@ jobs:
       shell: bash
     
     - name: Copy .gitmodules config file
-      run: "ls && pwd && cp .gitmodules public/"
+      run: "cp .gitmodules /home/runner/work/cyclofix-website/cyclofix-website/public/"
       shell: bash
-    
+  
     - name: Deploy
       uses: s0/git-publish-subdir-action@develop
       env:
