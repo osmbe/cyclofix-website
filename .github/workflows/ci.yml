@@ -24,7 +24,7 @@ jobs:
       shell: bash
     
     - name: Copy .gitmodules config file
-      run: "cp .gitmodules /home/runner/work/cyclofix-website/cyclofix-website/public/"
+      run: "sudo cp .gitmodules /home/runner/work/cyclofix-website/cyclofix-website/public/"
       shell: bash
   
     - name: Deploy
