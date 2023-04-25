@@ -4,7 +4,7 @@ draft: false
 ---
 
 
-## Re-using and integrating the Cyclofix map
+## Re-using and integrating the CycloFix map
 
 ### Share this map
 
@@ -27,11 +27,11 @@ You can easily add this website to your home screen for a native feel. Click the
 
 ### Embed on your website
 
-Please, embed this map into your website. We encourage you to do it - you don't even have to ask permission.
+Please, embed this map into your website. We encourage you to do it — you don't even have to ask permission.
 It is free, and always will be. The more people using this, the more valuable it becomes.
 
 ```html
-<iframe src="https://mapComplete.osm.be/cyclofix.html" title="Cyclofix with MapComplete"></iframe>;
+<iframe src="https://mapComplete.osm.be/cyclofix.html" title="CycloFix with MapComplete"></iframe>;
 ```
 
 To specify the location where the map should start out, add `&z=16&lat=50.846&lon=4.3516` at the end of the url, like this:
@@ -44,7 +44,7 @@ Remember to fill in your own `lat=` (latitude) and `lon=` (longitude), and to us
 If you want the map to be more zoomed in, use a `z=` of more than 16 (up to 19), to make it more zoomed out, choose a smaller number (down to 1).
 
 
-## Using the Cyclofix data in your own tool
+## Using the CycloFix data in your own tool
 
 There are many ways to use OpenStreetMap data. If you want ALL THE DATA you could [download the entire planet](https://wiki.openstreetmap.org/wiki/Planet.osm), but it's probably more practical to download just Belgium from a service like [the Geofabrik download site](http://download.geofabrik.de/europe/belgium.html). They even offer shapefiles for those that like a more structured dataset.
 
@@ -58,9 +58,9 @@ To be able to use the data, you need to have some understanding of the data mode
 
 ### Example: buying a new bike
 
-- most places to buy a bicycle are `shop=bicycle`
-- however, we need to exclude bicycle repair shops etc. These can be removed: exclude `service:bicycle:retail=no`. [Example](http://overpass-turbo.eu/s/Wvy)
-- but you can buy bikes at some other places as well. For example, special concepts like "cycle cafés" (`amenity=cafe`, `amenity=pub`), clubs or non-profits, or general sports shops that also sell bicycles
+- Most places to buy a bicycle are `shop=bicycle`
+- However, we need to exclude bicycle repair shops etc. These can be removed: exclude `service:bicycle:retail=no`. [Example](http://overpass-turbo.eu/s/Wvy)
+- You can however buy bikes at some other places as well. For example, special concepts like "cycle cafés" (`amenity=cafe`, `amenity=pub`), clubs or non-profits, or general sports shops that also sell bicycles
 
 Combined that gives us [this query](http://overpass-turbo.eu/s/WAE):
 
@@ -75,6 +75,6 @@ Combined that gives us [this query](http://overpass-turbo.eu/s/WAE):
  out body qt;
 ```
 
-Once we have this, we can use the Export function to download the data, the map or a live link to this query. With such a live link, you can set up a nice little [umap] or [mapcontrib] instance to show the result. To make the first try a bit easier, you can simply clone [this MapContrib theme](https://www.mapcontrib.xyz/t/777329-Places_to_buy_a_biycle) or [this umap](http://umap.openstreetmap.fr/nl/map/places-to-buy-a-bicycle_485217) that already integrate the above layer. And if you spot an error, just head over to the Cyclofix map!
+Once we have this, we can use the Export function to download the data, the map or a live link to this query. With such a live link, you can set up a nice little [umap] or [mapcontrib] instance to show the result. To make the first try a bit easier, you can simply clone [this MapContrib theme](https://www.mapcontrib.xyz/t/777329-Places_to_buy_a_biycle) or [this umap](http://umap.openstreetmap.fr/nl/map/places-to-buy-a-bicycle_485217) that already integrate the above layer. And if you spot an error, just head over to the CycloFix map!
 
 
