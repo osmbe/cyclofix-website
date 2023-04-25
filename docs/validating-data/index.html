@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"><meta name="generator" content="Hugo 0.106.0">
+<link rel="apple-touch-icon" sizes="180x180" href='https://cyclofix.osm.be/favicons/apple-touch-icon.png'>
+<link rel="icon" type="image/png" sizes="32x32" href='https://cyclofix.osm.be/favicons/favicon-32x32.png'>
+<link rel="icon" type="image/png" sizes="16x16" href='https://cyclofix.osm.be/favicons/favicon-16x16.png'>
+<link rel="manifest" href='https://cyclofix.osm.be/favicons/site.webmanifest'>
+<link rel="mask-icon" href='https://cyclofix.osm.be/favicons/safari-pinned-tab.svg'  color="#004750">
+<link rel="shortcut icon" href='https://cyclofix.osm.be/favicons/favicon.ico'>
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-config" content='https://cyclofix.osm.be/favicons/browserconfig.xml'>
+<meta name="theme-color" content="#ffffff">
+
+<title>Data validation | CycloFix</title><meta property="og:title" content="Data validation" />
+<meta property="og:description" content="When you edit OpenStreetMap (OSM), all your changes are applied automatically. This makes for a fast mapping environment where you can easily work together. But of course, there are risks to this approach. The OpenStreetMap community handles those risks by constant validation.
+For this tool, we use the OSMCha. The tool was developped by Mapbox, a company that provides basemaps and other services to large corporations. They provide this tool to any mapper free of charge." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://cyclofix.osm.be/docs/validating-data/" /><meta property="article:section" content="docs" />
+
+
+
+<meta itemprop="name" content="Data validation">
+<meta itemprop="description" content="When you edit OpenStreetMap (OSM), all your changes are applied automatically. This makes for a fast mapping environment where you can easily work together. But of course, there are risks to this approach. The OpenStreetMap community handles those risks by constant validation.
+For this tool, we use the OSMCha. The tool was developped by Mapbox, a company that provides basemaps and other services to large corporations. They provide this tool to any mapper free of charge.">
+
+<meta itemprop="wordCount" content="359">
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Data validation"/>
+<meta name="twitter:description" content="When you edit OpenStreetMap (OSM), all your changes are applied automatically. This makes for a fast mapping environment where you can easily work together. But of course, there are risks to this approach. The OpenStreetMap community handles those risks by constant validation.
+For this tool, we use the OSMCha. The tool was developped by Mapbox, a company that provides basemaps and other services to large corporations. They provide this tool to any mapper free of charge."/>
+
+
+<link rel = 'stylesheet' href = 'https://cyclofix.osm.be/css/styles.b895cdb8da30a949a4bd491718c02cea3381ef6c652c7a6f6ebb78c47277870cfea6c139f97a55fe2567ec9fcb35bb3acfc73a78a8ec624d5594ac9c38dddcf2.css' integrity = 'sha512-uJXNuNowqUmkvUkXGMAs6jOB72xlLHpvbrt4xHJ3hwz&#43;psE5&#43;XpV/iVn7J/LNbs6z8c6eKjsYk1VlKycON3c8g=='>
+
+</head>
+<body class="page-page">
+  <header class="nav_header"><nav class="wrap nav">
+	<a href="https://cyclofix.osm.be/">
+		<picture>
+			
+			<source srcset = 'https://cyclofix.osm.be/images/cyclofix-logo.svg' media="(prefers-color-scheme: dark)">
+			<img srcset = 'https://cyclofix.osm.be/images/cyclofix-logo.svg' alt = 'CycloFix Logo'>
+		</picture>
+	</a>
+	<div class="search">
+  <label for="search" class="search_label"></label>
+  <input type="search" class="search_field" placeholder="Search" id="search">
+  <div class="search_results"></div>
+</div>
+
+
+	
+	<ul class="nav_body">
+		<li class="nav-item">
+			<a class="nav-link" href="https://cyclofix.osm.be/docs/"><span>Docs</span></a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="https://cyclofix.osm.be/map/"><span>Map</span></a>
+		</li>
+		
+		<li class="nav-item">
+			<a class="nav-link" href="https://github.com/osmbe/cyclofix-website/" target="_blank">GitHub</a>
+		</li>
+	</ul>
+</nav>
+
+  </header>
+  <main class="main wrap pt-4"><div class="grid-auto">
+  <div><aside class="aside">
+  <section class="section">
+    <h2 class="section_title"><a  href="https://cyclofix.osm.be/docs/" class="group">Documentation</a></h2>
+      <section class="" id="docs-documentation">
+        <h3 class="section_link"><a id="docs-other-data--tools" href="https://cyclofix.osm.be/docs/other-tools/">Other data &amp; tools</a></h3><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#cycle-projects-in-brussels--belgium">Cycle projects in Brussels / Belgium</a></li>
+        <li><a href="#openstreetmap-for-cyclists">OpenStreetMap for cyclists</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+        <h3 class="section_link"><a id="docs-about-osm" href="https://cyclofix.osm.be/docs/about-osm/">About OSM</a></h3><nav id="TableOfContents"></nav>
+        <h3 class="section_link"><a id="docs-cyclofix-the-story" href="https://cyclofix.osm.be/docs/cyclofix-story/">CycloFix: The Story</a></h3><nav id="TableOfContents">
+  <ul>
+    <li><a href="#what-was-the-problem">What was the problem?</a></li>
+    <li><a href="#what-is-the-solution">What is the solution?</a></li>
+    <li><a href="#how-does-it-work">How does it work?</a></li>
+    <li><a href="#how-did-we-do-it">How did we do it?</a></li>
+    <li><a href="#what-happens-to-cyclofix-after-osoc20">What happens to CycloFix after #osoc20?</a></li>
+  </ul>
+</nav>
+        <h3 class="section_link active"><a id="docs-data-validation" href="https://cyclofix.osm.be/docs/validating-data/">Data validation</a></h3><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#in-practice">In practice</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+        <h3 class="section_link"><a id="docs-mapathons-and-more" href="https://cyclofix.osm.be/docs/mapathon/">Mapathons and more</a></h3><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#decide-on-an-event-model">Decide on an event model</a></li>
+        <li><a href="#before-the-event">Before the event</a></li>
+        <li><a href="#during-the-event">During the event</a></li>
+        <li><a href="#after-the-event">After the event</a></li>
+        <li><a href="#make-pretty-maps">Make pretty maps</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+        <h3 class="section_link"><a id="docs-re-using-the-data-and-map" href="https://cyclofix.osm.be/docs/using-data-map/">Re-using the data and map</a></h3><nav id="TableOfContents">
+  <ul>
+    <li><a href="#re-using-and-integrating-the-cyclofix-map">Re-using and integrating the CycloFix map</a>
+      <ul>
+        <li><a href="#share-this-map">Share this map</a></li>
+        <li><a href="#add-to-your-home-screen">Add to your home screen</a></li>
+        <li><a href="#embed-on-your-website">Embed on your website</a></li>
+      </ul>
+    </li>
+    <li><a href="#using-the-cyclofix-data-in-your-own-tool">Using the CycloFix data in your own tool</a>
+      <ul>
+        <li><a href="#example-buying-a-new-bike">Example: buying a new bike</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+      </section>
+  </section>
+</aside>
+
+  </div>
+  <section class="content">
+    <h1>Data validation</h1><p>When you edit OpenStreetMap (OSM), all your changes are applied automatically. This makes for a fast mapping environment where you can easily work together.
+But of course, there are risks to this approach. The OpenStreetMap community handles those risks by constant validation.</p>
+<p>For this tool, we use the OSMCha. The tool was developped by Mapbox, a company that provides basemaps and other services to large corporations. They provide this tool to any mapper free of charge.</p>
+<h3 id="in-practice">In practice</h3>
+<p>Every edit you make in OSM is bundled in a little file, a <em>changeset</em> (<a href="https://www.openstreetmap.org/changeset/13349393">example</a>).
+This file is forever associated with your <em>username</em> (<a href="https://www.openstreetmap.org/user/Mdri">example</a>) and the object you changed (<a href="https://www.openstreetmap.org/relation/2450509/history">example</a>).</p>
+<p>In OSMCha we filter changesets:</p>
+<ul>
+<li>if they have the <em>changeset comment</em> &ldquo;pomp&rdquo; (the name of our instance at the time; this was later changed to &ldquo;cyclofix&rdquo;)</li>
+<li>if they are in Belgium</li>
+<li>if the changeset has NOT been reviewed yet within OSMCha</li>
+<li>if the contributor has NOT been marked as <em>trusted</em> by the current OSMCha user</li>
+<li>if the edit was made with the <em>Editor</em> &ldquo;MapComplete 0.0.0&rdquo;</li>
+</ul>
+<p>If you first go to OSMCha.org and connect your OpenStreetMap.org, <a href="https://osmcha.org/?filters=%7B%22editor%22%3A%5B%7B%22label%22%3A%22MapComplete%22%2C%22value%22%3A%22MapComplete%22%7D%5D%2C%22geometry%22%3A%5B%7B%22label%22%3A%7B%22coordinates%22%3A%5B%5B%5B2.3746718878202273%2C51.53758926802823%5D%2C%5B5.775754540642026%2C51.616603830376306%5D%2C%5B6.872365302537133%2C50.45740876295116%5D%2C%5B5.934683636572714%2C49.44507309382715%5D%2C%5B4.869858693865012%2C49.414063694114276%5D%2C%5B1.9614562384095393%2C50.98063493933668%5D%2C%5B2.3746718878202273%2C51.53758926802823%5D%5D%5D%2C%22type%22%3A%22Polygon%22%7D%2C%22value%22%3A%7B%22coordinates%22%3A%5B%5B%5B2.3746718878202273%2C51.53758926802823%5D%2C%5B5.775754540642026%2C51.616603830376306%5D%2C%5B6.872365302537133%2C50.45740876295116%5D%2C%5B5.934683636572714%2C49.44507309382715%5D%2C%5B4.869858693865012%2C49.414063694114276%5D%2C%5B1.9614562384095393%2C50.98063493933668%5D%2C%5B2.3746718878202273%2C51.53758926802823%5D%5D%5D%2C%22type%22%3A%22Polygon%22%7D%7D%5D%2C%22comment%22%3A%5B%7B%22label%22%3A%22cyclofix%22%2C%22value%22%3A%22cyclofix%22%7D%5D%2C%22checked%22%3A%5B%7B%22label%22%3A%22Not%20Reviewed%22%2C%22value%22%3A%22False%22%7D%5D%2C%22hide_whitelist%22%3A%5B%7B%22label%22%3A%22Yes%22%2C%22value%22%3A%22True%22%7D%5D%7D">you can see our filter</a> (this replaces our <a href="https://osmcha.org/filters?filters=%7B%22editor%22%3A%5B%7B%22label%22%3A%22MapComplete%200.0.0%22%2C%22value%22%3A%22MapComplete%200.0.0%22%7D%5D%2C%22geometry%22%3A%5B%7B%22label%22%3A%7B%22coordinates%22%3A%5B%5B%5B2.3746718878202273%2C51.53758926802823%5D%2C%5B5.775754540642026%2C51.616603830376306%5D%2C%5B6.872365302537133%2C50.45740876295116%5D%2C%5B5.934683636572714%2C49.44507309382715%5D%2C%5B4.869858693865012%2C49.414063694114276%5D%2C%5B1.9614562384095393%2C50.98063493933668%5D%2C%5B2.3746718878202273%2C51.53758926802823%5D%5D%5D%2C%22type%22%3A%22Polygon%22%7D%2C%22value%22%3A%7B%22coordinates%22%3A%5B%5B%5B2.3746718878202273%2C51.53758926802823%5D%2C%5B5.775754540642026%2C51.616603830376306%5D%2C%5B6.872365302537133%2C50.45740876295116%5D%2C%5B5.934683636572714%2C49.44507309382715%5D%2C%5B4.869858693865012%2C49.414063694114276%5D%2C%5B1.9614562384095393%2C50.98063493933668%5D%2C%5B2.3746718878202273%2C51.53758926802823%5D%5D%5D%2C%22type%22%3A%22Polygon%22%7D%7D%5D%2C%22comment%22%3A%5B%7B%22label%22%3A%22pomp%22%2C%22value%22%3A%22pomp%22%7D%5D%2C%22checked%22%3A%5B%7B%22label%22%3A%22Not%20Reviewed%22%2C%22value%22%3A%22False%22%7D%5D%2C%22hide_whitelist%22%3A%5B%7B%22label%22%3A%22Yes%22%2C%22value%22%3A%22True%22%7D%5D%7D">previous filter</a>).
+We do not go through all the changes. When we see a new edit, we try to assess if the edit is plausible. We look at the data in the context of other OSM data: maybe it&rsquo;s a duplicate, maybe something that is usually besides a road is mapped in the middle of the road; or inside a building!</p>
+<p>Then we cross-reference with aereal imagery, the photos provided by the contributor or on Mapillary (a crowd-sourced street-level imagery datasource).
+We make corrections and imporvements if needed, and mark the changeset as &ldquo;good&rdquo; or &ldquo;bad&rdquo; within OSMCha.</p>
+<p>If we have checked a few edits of a new contributor and found them to be in perfect shape, we mark the contributor as a &ldquo;trusted user&rdquo;. This list is shared <a href="https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/Cyclofix/trusted_users">somewhere on the OSM wiki</a>.</p>
+<p>During this process, we can leave a message on the Changeset for the contributor and the community to see. This creates a public record on any doubts there might be about this particular data-point.</p>
+
+    <div class="pager">
+      <a href="https://cyclofix.osm.be/docs/cyclofix-story/" id="prev">&lt;&lt; CycloFix: The Story</a>
+      
+      <a href="https://cyclofix.osm.be/docs/mapathon/" id="next">Mapathons and more >></a>
+    </div>
+  </section>
+</div>
+
+  </main>
+<footer class="mt-2 pt-2 pb-2">
+  <div class="wrap">
+    <p>&copy; 2023 CycloFix Team</p>
+  </div>
+</footer>
+
+
+
+<script src = 'https://cyclofix.osm.be/js/bundle.min.8b298b59b20274ae7309de247fc8d80ec50593649475d04d9f56bc58fe03a2cba7507e75b4d9887d6a2c9ab3a2cd6633af8dc8b08e0d356116bae25697ad4a89.js'></script>
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://cyclofix.osm.be/docs/</loc>
+    <lastmod>2020-07-27T17:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://cyclofix.osm.be/</loc>
+    <lastmod>2020-07-27T17:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://cyclofix.osm.be/docs/other-tools/</loc>
+    <lastmod>2020-07-27T17:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://cyclofix.osm.be/docs/about-osm/</loc>
+  </url><url>
+    <loc>https://cyclofix.osm.be/docs/cyclofix-story/</loc>
+  </url><url>
+    <loc>https://cyclofix.osm.be/docs/validating-data/</loc>
+  </url><url>
+    <loc>https://cyclofix.osm.be/docs/mapathon/</loc>
+  </url><url>
+    <loc>https://cyclofix.osm.be/docs/using-data-map/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="55"
+   height="55"
+   version="1.1"
+   viewBox="0 0 13.512648 13.512648"
+   id="svg39"
+   sodipodi:docname="cyclofix-logo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1876"
+     inkscape:window-height="1051"
+     id="namedview41"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:zoom="10.191358"
+     inkscape:cx="52.327683"
+     inkscape:cy="35.021342"
+     inkscape:window-x="44"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g55" />
+  <defs
+     id="defs17">
+    <filter
+       id="filter1_d"
+       x="87.644997"
+       y="59"
+       width="93.235001"
+       height="58"
+       color-interpolation-filters="sRGB"
+       filterUnits="userSpaceOnUse">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood2" />
+      <feColorMatrix
+         in="SourceAlpha"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         id="feColorMatrix4" />
+      <feOffset
+         dy="4"
+         id="feOffset6" />
+      <feGaussianBlur
+         stdDeviation="2"
+         id="feGaussianBlur8" />
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+         id="feColorMatrix10" />
+      <feBlend
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow"
+         id="feBlend12"
+         mode="normal" />
+      <feBlend
+         in="SourceGraphic"
+         in2="effect1_dropShadow"
+         result="shape"
+         id="feBlend14"
+         mode="normal" />
+    </filter>
+  </defs>
+  <g
+     id="g55"
+     transform="matrix(0.39780344,0,0,0.39780344,3.4414363,0.66145847)">
+    <circle
+       id="circle19"
+       stroke-width="0.315089"
+       fill="#e9c46a"
+       r="15.44007"
+       cy="15.3213"
+       cx="8.3329792" />
+    <g
+       id="g37"
+       filter="url(#filter1_d)"
+       transform="matrix(0.31508936,0,0,0.31508936,-33.971705,-12.406564)">
+      <g
+         id="g31"
+         stroke="#ffffff"
+         fill="none">
+        <path
+           id="path23"
+           stroke-width="4"
+           d="m 130.8,94.661 h -22.216 l 12.118,-26.256 h 30.295 l -3.366,-7.4055 h 9.425 m -6.059,7.4055 1.347,3.3661 2.692,5.3858 7.406,17.504 m -11.445,-26.256 -6.396,10.098 -3.837,6.059 m -2.558,4.0394 2.558,-4.0394 m -15.349,-8.7519 6.732,14.811 -13.465,-29.622 4.04,8.0787 m 13.464,22.89 4.578,-7.4055" />
+        <circle
+           id="circle25"
+           stroke-width="2"
+           r="3.7126"
+           cy="93.515999"
+           cx="134.06" />
+        <path
+           id="path27"
+           stroke-width="4"
+           d="m 158.94,101.94 -0.057,-0.004 h -0.058 c -1.479,0 -3.004,0.075 -4.38,0.143 -0.811,0.039 -1.569,0.077 -2.236,0.095 -1.966,0.052 -3.404,-0.042 -4.481,-0.426 -0.945,-0.337 -1.662,-0.913 -2.186,-2.1115 -0.575,-1.3143 -0.935,-3.4347 -0.817,-6.8521 0.291,-8.4377 6.811,-15.144 15.076,-15.144 8.326,0 15.076,6.7495 15.076,15.075 0,2.8364 -0.069,4.7891 -0.374,6.201 -0.286,1.3185 -0.724,1.9125 -1.328,2.2995 -0.735,0.471 -2.019,0.834 -4.429,0.959 -2.37,0.124 -5.531,0.009 -9.806,-0.235 z" />
+        <circle
+           id="circle29"
+           stroke-width="4"
+           r="14.831"
+           cy="92.168999"
+           cx="108.48" />
+      </g>
+      <path
+         id="path33"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke="#ffffff"
+         d="m 170.17,78.203 c -0.122,-1.0395 -0.609,-2.079 -1.097,-2.5031 m 2.439,2.9272 c 0.366,-0.5516 0.854,-2.0152 0.854,-2.9909 m 0.243,4.0304 c 0.367,-0.5516 2.318,-1.4636 2.806,-1.4636" />
+      <circle
+         id="circle35"
+         fill-opacity="0.49"
+         r="0.48787001"
+         cy="80.027"
+         cx="170.53999" />
+    </g>
+  </g>
+</svg>

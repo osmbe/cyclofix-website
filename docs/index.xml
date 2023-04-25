@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on CycloFix</title>
+    <link>https://cyclofix.osm.be/docs/</link>
+    <description>Recent content in Documentation on CycloFix</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jul 2020 17:00:00 +0200</lastBuildDate><atom:link href="https://cyclofix.osm.be/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Other data &amp; tools</title>
+      <link>https://cyclofix.osm.be/docs/other-tools/</link>
+      <pubDate>Mon, 27 Jul 2020 17:00:00 +0200</pubDate>
+      
+      <guid>https://cyclofix.osm.be/docs/other-tools/</guid>
+      <description>It&amp;rsquo;s impossible to integrate all the information that might be relevant to cyclists into one single map. Here are some other projects and sources you might need.
+Cycle projects in Brussels / Belgium Brussels Bike Routeplanner — take the more quite or scenic route through brussels Villo! — public bike renting in Brussels Cycloparking place — secure bicycle parkling in a locked outdoor shed near your house Cycle counter map — how many cyclists are riding there?</description>
+    </item>
+    
+    <item>
+      <title>About OSM</title>
+      <link>https://cyclofix.osm.be/docs/about-osm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyclofix.osm.be/docs/about-osm/</guid>
+      <description>To maximize the re-usability of the data CycloFix collects, it was decided to use OpenStreetMap (OSM). But why? How does OSM help? You could say OSM is &amp;ldquo;the Wikipedia of maps&amp;rdquo;. Anyone can improve our data. Anyone can re-use it — not necessarily through any official API, but through a whole ecosystem of tools and services that make the data available for a huge range of usecases.
+We collected some resources that delve deeper into this topic:</description>
+    </item>
+    
+    <item>
+      <title>CycloFix: The Story</title>
+      <link>https://cyclofix.osm.be/docs/cyclofix-story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyclofix.osm.be/docs/cyclofix-story/</guid>
+      <description>Let us tell you a little story. Imagine a warm summer day with a gentle breeze. You decide to go for a cycling trip and happen to cross the Brussels Capital Region. Suddenly, however, you hear a silent hiss, you look down and notice a flat tire (starts cursing). Sounds familiar, right?
+Except if you happen to have a bicycle pump with you, you are stuck. So what do you do?</description>
+    </item>
+    
+    <item>
+      <title>Data validation</title>
+      <link>https://cyclofix.osm.be/docs/validating-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyclofix.osm.be/docs/validating-data/</guid>
+      <description>When you edit OpenStreetMap (OSM), all your changes are applied automatically. This makes for a fast mapping environment where you can easily work together. But of course, there are risks to this approach. The OpenStreetMap community handles those risks by constant validation.
+For this tool, we use the OSMCha. The tool was developped by Mapbox, a company that provides basemaps and other services to large corporations. They provide this tool to any mapper free of charge.</description>
+    </item>
+    
+    <item>
+      <title>Mapathons and more</title>
+      <link>https://cyclofix.osm.be/docs/mapathon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyclofix.osm.be/docs/mapathon/</guid>
+      <description>A mapathon is a coordinated mapping event where the public is invited to make online map improvements in their local area to improve coverage, basically a kind of crowdsourcing. During #osoc20, we organized a mapathon to boost the CycloFix project. It is important to have the right goals in mind when organizing such an event. Our goal was two-sided: increase the coverage of mapped cycling infrastructure in the Brussels Capital Region (collect as much data as possible) AND build a community to keep the map updated (introducing others to OSM).</description>
+    </item>
+    
+    <item>
+      <title>Re-using the data and map</title>
+      <link>https://cyclofix.osm.be/docs/using-data-map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyclofix.osm.be/docs/using-data-map/</guid>
+      <description>Re-using and integrating the CycloFix map Share this map Share this map by copying the link below and sending it to friends and family.
+https://mapComplete.osm.be/cyclofix.html
+When you move the map around, the URL is changed a little bit to reflect where exactly you are looking. So move to the location you want to share, and copy the URL again to share that location: https://mapComplete.osm.be/cyclofix.html?z=16&amp;amp;lat=50.8465573&amp;amp;lon=4.351697
+When you change the map background or you hide some of the categories, this is also reflected in the URL, for example: https://mapComplete.</description>
+    </item>
+    
+  </channel>
+</rss>
