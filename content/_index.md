@@ -3,7 +3,7 @@ title = "CycloFix"
 +++
 
 {{< block "grid-2 mt-2" >}}
-{{< column >}}
+{{< column />}}
 
 # Welcome to CycloFix!
 
