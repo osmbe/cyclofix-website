@@ -17,7 +17,7 @@ jobs:
       run: git submodule update --init --recursive
   
     - name: Build
-      uses: srt32/hugo-action@master
+      uses: srt32/hugo-action@v0.0.2
     
     - name: Add CNAME
       run: "echo \"cyclofix.osm.be\" | sudo tee -a \"/home/runner/work/cyclofix-website/cyclofix-website/public/CNAME\""
